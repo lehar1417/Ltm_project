@@ -1,0 +1,596 @@
+[
+    {
+        "accident_event_id":"ACC_000001",
+        "trip_id":"TID_0012",
+        "driver_id":"DID_024",
+        "accident_date":"2024-03-22 18:04:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":144990
+    },
+    {
+        "accident_event_id":"ACC_000002",
+        "trip_id":"TID_0035",
+        "driver_id":"DID_012",
+        "accident_date":"2024-01-23 10:26:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":111608
+    },
+    {
+        "accident_event_id":"ACC_000003",
+        "trip_id":"TID_0053",
+        "driver_id":"DID_039",
+        "accident_date":"2024-03-08 08:28:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":154154
+    },
+    {
+        "accident_event_id":"ACC_000004",
+        "trip_id":"TID_0055",
+        "driver_id":"DID_046",
+        "accident_date":"2024-03-02 14:10:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":84694
+    },
+    {
+        "accident_event_id":"ACC_000005",
+        "trip_id":"TID_0070",
+        "driver_id":"DID_011",
+        "accident_date":"2024-01-23 21:26:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":64814
+    },
+    {
+        "accident_event_id":"ACC_000006",
+        "trip_id":"TID_0086",
+        "driver_id":"DID_044",
+        "accident_date":"2024-02-09 01:20:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":187009
+    },
+    {
+        "accident_event_id":"ACC_000007",
+        "trip_id":"TID_0118",
+        "driver_id":"DID_078",
+        "accident_date":"2024-03-20 04:48:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":132379
+    },
+    {
+        "accident_event_id":"ACC_000008",
+        "trip_id":"TID_0126",
+        "driver_id":"DID_082",
+        "accident_date":"2024-02-23 09:53:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":109301
+    },
+    {
+        "accident_event_id":"ACC_000009",
+        "trip_id":"TID_0133",
+        "driver_id":"DID_076",
+        "accident_date":"2024-01-20 15:29:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":63515
+    },
+    {
+        "accident_event_id":"ACC_000010",
+        "trip_id":"TID_0153",
+        "driver_id":"DID_034",
+        "accident_date":"2024-03-19 15:14:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":195029
+    },
+    {
+        "accident_event_id":"ACC_000011",
+        "trip_id":"TID_0163",
+        "driver_id":"DID_069",
+        "accident_date":"2024-03-29 13:06:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":165488
+    },
+    {
+        "accident_event_id":"ACC_000012",
+        "trip_id":"TID_0189",
+        "driver_id":"DID_035",
+        "accident_date":"2024-03-31 05:14:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":52446
+    },
+    {
+        "accident_event_id":"ACC_000013",
+        "trip_id":"TID_0203",
+        "driver_id":"DID_052",
+        "accident_date":"2024-02-14 10:38:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":101473
+    },
+    {
+        "accident_event_id":"ACC_000014",
+        "trip_id":"TID_0208",
+        "driver_id":"DID_060",
+        "accident_date":"2024-03-10 11:03:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":49268
+    },
+    {
+        "accident_event_id":"ACC_000015",
+        "trip_id":"TID_0245",
+        "driver_id":"DID_037",
+        "accident_date":"2024-03-06 09:52:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":116539
+    },
+    {
+        "accident_event_id":"ACC_000016",
+        "trip_id":"TID_0254",
+        "driver_id":"DID_012",
+        "accident_date":"2024-01-24 22:50:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":185099
+    },
+    {
+        "accident_event_id":"ACC_000017",
+        "trip_id":"TID_0257",
+        "driver_id":"DID_023",
+        "accident_date":"2024-03-23 06:05:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":83567
+    },
+    {
+        "accident_event_id":"ACC_000018",
+        "trip_id":"TID_0261",
+        "driver_id":"DID_070",
+        "accident_date":"2024-02-12 02:04:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":109957
+    },
+    {
+        "accident_event_id":"ACC_000019",
+        "trip_id":"TID_0270",
+        "driver_id":"DID_071",
+        "accident_date":"2024-02-05 14:38:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":62977
+    },
+    {
+        "accident_event_id":"ACC_000020",
+        "trip_id":"TID_0271",
+        "driver_id":"DID_012",
+        "accident_date":"2024-02-18 05:34:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":67489
+    },
+    {
+        "accident_event_id":"ACC_000021",
+        "trip_id":"TID_0280",
+        "driver_id":"DID_031",
+        "accident_date":"2024-03-15 20:24:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":152198
+    },
+    {
+        "accident_event_id":"ACC_000022",
+        "trip_id":"TID_0289",
+        "driver_id":"DID_023",
+        "accident_date":"2024-03-03 06:42:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":25740
+    },
+    {
+        "accident_event_id":"ACC_000023",
+        "trip_id":"TID_0377",
+        "driver_id":"DID_080",
+        "accident_date":"2024-01-03 22:17:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":160490
+    },
+    {
+        "accident_event_id":"ACC_000024",
+        "trip_id":"TID_0379",
+        "driver_id":"DID_040",
+        "accident_date":"2024-01-14 20:23:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":114824
+    },
+    {
+        "accident_event_id":"ACC_000025",
+        "trip_id":"TID_0420",
+        "driver_id":"DID_093",
+        "accident_date":"2024-01-27 19:27:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":84853
+    },
+    {
+        "accident_event_id":"ACC_000026",
+        "trip_id":"TID_0430",
+        "driver_id":"DID_054",
+        "accident_date":"2024-01-19 12:33:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":149396
+    },
+    {
+        "accident_event_id":"ACC_000027",
+        "trip_id":"TID_0432",
+        "driver_id":"DID_070",
+        "accident_date":"2024-01-19 11:02:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":102271
+    },
+    {
+        "accident_event_id":"ACC_000028",
+        "trip_id":"TID_0433",
+        "driver_id":"DID_085",
+        "accident_date":"2024-01-12 09:18:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":172908
+    },
+    {
+        "accident_event_id":"ACC_000029",
+        "trip_id":"TID_0440",
+        "driver_id":"DID_043",
+        "accident_date":"2024-03-20 15:58:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":127582
+    },
+    {
+        "accident_event_id":"ACC_000030",
+        "trip_id":"TID_0447",
+        "driver_id":"DID_014",
+        "accident_date":"2024-03-22 06:54:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":119479
+    },
+    {
+        "accident_event_id":"ACC_000031",
+        "trip_id":"TID_0484",
+        "driver_id":"DID_088",
+        "accident_date":"2024-01-09 17:39:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":93095
+    },
+    {
+        "accident_event_id":"ACC_000032",
+        "trip_id":"TID_0498",
+        "driver_id":"DID_100",
+        "accident_date":"2024-02-07 22:21:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":150220
+    },
+    {
+        "accident_event_id":"ACC_000033",
+        "trip_id":"TID_0521",
+        "driver_id":"DID_055",
+        "accident_date":"2024-01-29 12:15:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":50459
+    },
+    {
+        "accident_event_id":"ACC_000034",
+        "trip_id":"TID_0526",
+        "driver_id":"DID_062",
+        "accident_date":"2024-01-09 08:25:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":36225
+    },
+    {
+        "accident_event_id":"ACC_000035",
+        "trip_id":"TID_0529",
+        "driver_id":"DID_030",
+        "accident_date":"2024-02-20 11:22:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":173708
+    },
+    {
+        "accident_event_id":"ACC_000036",
+        "trip_id":"TID_0537",
+        "driver_id":"DID_018",
+        "accident_date":"2024-01-15 02:56:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":133206
+    },
+    {
+        "accident_event_id":"ACC_000037",
+        "trip_id":"TID_0551",
+        "driver_id":"DID_049",
+        "accident_date":"2024-02-13 04:20:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":188702
+    },
+    {
+        "accident_event_id":"ACC_000038",
+        "trip_id":"TID_0552",
+        "driver_id":"DID_068",
+        "accident_date":"2024-01-21 09:42:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":90101
+    },
+    {
+        "accident_event_id":"ACC_000039",
+        "trip_id":"TID_0578",
+        "driver_id":"DID_100",
+        "accident_date":"2024-02-05 01:18:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":60162
+    },
+    {
+        "accident_event_id":"ACC_000040",
+        "trip_id":"TID_0603",
+        "driver_id":"DID_047",
+        "accident_date":"2024-02-01 12:25:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":133568
+    },
+    {
+        "accident_event_id":"ACC_000041",
+        "trip_id":"TID_0644",
+        "driver_id":"DID_074",
+        "accident_date":"2024-01-19 00:14:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":131716
+    },
+    {
+        "accident_event_id":"ACC_000042",
+        "trip_id":"TID_0645",
+        "driver_id":"DID_009",
+        "accident_date":"2024-02-01 00:42:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":136460
+    },
+    {
+        "accident_event_id":"ACC_000043",
+        "trip_id":"TID_0662",
+        "driver_id":"DID_010",
+        "accident_date":"2024-01-02 00:19:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":84220
+    },
+    {
+        "accident_event_id":"ACC_000044",
+        "trip_id":"TID_0688",
+        "driver_id":"DID_021",
+        "accident_date":"2024-02-06 14:36:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":173687
+    },
+    {
+        "accident_event_id":"ACC_000045",
+        "trip_id":"TID_0692",
+        "driver_id":"DID_037",
+        "accident_date":"2024-03-19 00:44:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":30865
+    },
+    {
+        "accident_event_id":"ACC_000046",
+        "trip_id":"TID_0728",
+        "driver_id":"DID_024",
+        "accident_date":"2024-02-03 18:28:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":40291
+    },
+    {
+        "accident_event_id":"ACC_000047",
+        "trip_id":"TID_0743",
+        "driver_id":"DID_005",
+        "accident_date":"2024-01-17 13:44:00",
+        "accident_type":"Major",
+        "severity_level":"Low",
+        "damage_cost":199813
+    },
+    {
+        "accident_event_id":"ACC_000048",
+        "trip_id":"TID_0744",
+        "driver_id":"DID_048",
+        "accident_date":"2024-01-14 05:45:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":46418
+    },
+    {
+        "accident_event_id":"ACC_000049",
+        "trip_id":"TID_0756",
+        "driver_id":"DID_089",
+        "accident_date":"2024-01-07 04:34:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":176188
+    },
+    {
+        "accident_event_id":"ACC_000050",
+        "trip_id":"TID_0774",
+        "driver_id":"DID_012",
+        "accident_date":"2024-02-15 21:26:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":45841
+    },
+    {
+        "accident_event_id":"ACC_000051",
+        "trip_id":"TID_0775",
+        "driver_id":"DID_007",
+        "accident_date":"2024-03-07 05:44:00",
+        "accident_type":"Minor",
+        "severity_level":"High",
+        "damage_cost":85491
+    },
+    {
+        "accident_event_id":"ACC_000052",
+        "trip_id":"TID_0777",
+        "driver_id":"DID_069",
+        "accident_date":"2024-01-18 05:32:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":168221
+    },
+    {
+        "accident_event_id":"ACC_000053",
+        "trip_id":"TID_0781",
+        "driver_id":"DID_049",
+        "accident_date":"2024-01-05 12:36:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":113028
+    },
+    {
+        "accident_event_id":"ACC_000054",
+        "trip_id":"TID_0787",
+        "driver_id":"DID_084",
+        "accident_date":"2024-02-11 14:00:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":142775
+    },
+    {
+        "accident_event_id":"ACC_000055",
+        "trip_id":"TID_0798",
+        "driver_id":"DID_049",
+        "accident_date":"2024-03-15 07:36:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":159808
+    },
+    {
+        "accident_event_id":"ACC_000056",
+        "trip_id":"TID_0801",
+        "driver_id":"DID_043",
+        "accident_date":"2024-01-26 16:06:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":138497
+    },
+    {
+        "accident_event_id":"ACC_000057",
+        "trip_id":"TID_0804",
+        "driver_id":"DID_014",
+        "accident_date":"2024-03-19 05:54:00",
+        "accident_type":"Major",
+        "severity_level":"Medium",
+        "damage_cost":47765
+    },
+    {
+        "accident_event_id":"ACC_000058",
+        "trip_id":"TID_0831",
+        "driver_id":"DID_013",
+        "accident_date":"2024-03-10 18:38:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":33452
+    },
+    {
+        "accident_event_id":"ACC_000059",
+        "trip_id":"TID_0858",
+        "driver_id":"DID_053",
+        "accident_date":"2024-02-06 10:45:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":50885
+    },
+    {
+        "accident_event_id":"ACC_000060",
+        "trip_id":"TID_0864",
+        "driver_id":"DID_075",
+        "accident_date":"2024-03-13 21:49:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":32178
+    },
+    {
+        "accident_event_id":"ACC_000061",
+        "trip_id":"TID_0916",
+        "driver_id":"DID_044",
+        "accident_date":"2024-03-26 00:10:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":52795
+    },
+    {
+        "accident_event_id":"ACC_000062",
+        "trip_id":"TID_0918",
+        "driver_id":"DID_041",
+        "accident_date":"2024-01-20 10:24:00",
+        "accident_type":"Major",
+        "severity_level":"High",
+        "damage_cost":193529
+    },
+    {
+        "accident_event_id":"ACC_000063",
+        "trip_id":"TID_0923",
+        "driver_id":"DID_017",
+        "accident_date":"2024-01-31 20:02:00",
+        "accident_type":"Minor",
+        "severity_level":"Medium",
+        "damage_cost":180424
+    },
+    {
+        "accident_event_id":"ACC_000064",
+        "trip_id":"TID_0953",
+        "driver_id":"DID_050",
+        "accident_date":"2024-03-12 16:52:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":194676
+    },
+    {
+        "accident_event_id":"ACC_000065",
+        "trip_id":"TID_0978",
+        "driver_id":"DID_057",
+        "accident_date":"2024-03-05 16:09:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":116751
+    },
+    {
+        "accident_event_id":"ACC_000066",
+        "trip_id":"TID_0984",
+        "driver_id":"DID_060",
+        "accident_date":"2024-01-10 13:40:00",
+        "accident_type":"Minor",
+        "severity_level":"Low",
+        "damage_cost":76444
+    }
+]

@@ -1,0 +1,2314 @@
+[
+    {
+        "route_deviation_id":"DEV_000001",
+        "trip_id":"TID_0005",
+        "deviation_start":"2024-03-24 05:00:00",
+        "deviation_end":"2024-03-24 17:12:00",
+        "deviation_distance_km":29.52,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000002",
+        "trip_id":"TID_0008",
+        "deviation_start":"2024-02-22 08:07:00",
+        "deviation_end":"2024-02-22 16:32:12",
+        "deviation_distance_km":48.03,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000003",
+        "trip_id":"TID_0016",
+        "deviation_start":"2024-03-29 10:13:00",
+        "deviation_end":"2024-03-30 09:26:48",
+        "deviation_distance_km":28.48,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000004",
+        "trip_id":"TID_0017",
+        "deviation_start":"2024-02-01 09:02:00",
+        "deviation_end":"2024-02-01 16:35:36",
+        "deviation_distance_km":22.55,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000005",
+        "trip_id":"TID_0018",
+        "deviation_start":"2024-02-13 13:25:00",
+        "deviation_end":"2024-02-14 12:07:36",
+        "deviation_distance_km":22.6,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000006",
+        "trip_id":"TID_0029",
+        "deviation_start":"2024-01-16 22:09:00",
+        "deviation_end":"2024-01-16 17:19:48",
+        "deviation_distance_km":42.32,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000007",
+        "trip_id":"TID_0036",
+        "deviation_start":"2024-03-07 00:27:00",
+        "deviation_end":"2024-03-07 21:54:00",
+        "deviation_distance_km":29.31,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000008",
+        "trip_id":"TID_0037",
+        "deviation_start":"2024-03-13 19:38:00",
+        "deviation_end":"2024-03-14 14:35:00",
+        "deviation_distance_km":49.32,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000009",
+        "trip_id":"TID_0041",
+        "deviation_start":"2024-01-17 20:13:00",
+        "deviation_end":"2024-01-18 05:23:48",
+        "deviation_distance_km":35.88,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000010",
+        "trip_id":"TID_0043",
+        "deviation_start":"2024-01-19 06:16:00",
+        "deviation_end":"2024-01-19 13:31:36",
+        "deviation_distance_km":44.04,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000011",
+        "trip_id":"TID_0045",
+        "deviation_start":"2024-03-07 02:40:00",
+        "deviation_end":"2024-03-07 16:14:48",
+        "deviation_distance_km":35.9,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000012",
+        "trip_id":"TID_0051",
+        "deviation_start":"2024-02-23 12:47:00",
+        "deviation_end":"2024-02-23 20:48:48",
+        "deviation_distance_km":38.56,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000013",
+        "trip_id":"TID_0053",
+        "deviation_start":"2024-03-08 08:28:00",
+        "deviation_end":"2024-03-09 08:04:00",
+        "deviation_distance_km":25.64,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000014",
+        "trip_id":"TID_0054",
+        "deviation_start":"2024-02-26 09:41:00",
+        "deviation_end":"2024-02-26 15:36:48",
+        "deviation_distance_km":36.99,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000015",
+        "trip_id":"TID_0055",
+        "deviation_start":"2024-03-02 14:10:00",
+        "deviation_end":"2024-03-02 22:24:24",
+        "deviation_distance_km":7.66,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000016",
+        "trip_id":"TID_0056",
+        "deviation_start":"2024-01-31 23:43:00",
+        "deviation_end":"2024-02-01 20:09:24",
+        "deviation_distance_km":19.35,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000017",
+        "trip_id":"TID_0057",
+        "deviation_start":"2024-02-09 07:54:00",
+        "deviation_end":"2024-02-09 23:51:36",
+        "deviation_distance_km":29.14,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000018",
+        "trip_id":"TID_0060",
+        "deviation_start":"2024-03-26 01:11:00",
+        "deviation_end":"2024-03-27 01:30:48",
+        "deviation_distance_km":41.37,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000019",
+        "trip_id":"TID_0061",
+        "deviation_start":"2024-01-30 01:41:00",
+        "deviation_end":"2024-01-30 11:25:24",
+        "deviation_distance_km":-21.8881461178,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000020",
+        "trip_id":"TID_0063",
+        "deviation_start":"2024-03-13 10:27:00",
+        "deviation_end":"2024-03-13 19:03:36",
+        "deviation_distance_km":47.38,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000021",
+        "trip_id":"TID_0069",
+        "deviation_start":"2024-02-06 20:11:00",
+        "deviation_end":"2024-02-06 16:30:48",
+        "deviation_distance_km":42.27,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000022",
+        "trip_id":"TID_0070",
+        "deviation_start":"2024-01-23 21:26:00",
+        "deviation_end":"2024-01-23 19:10:24",
+        "deviation_distance_km":27.24,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000023",
+        "trip_id":"TID_0074",
+        "deviation_start":"2024-02-15 12:06:00",
+        "deviation_end":"2024-02-15 17:55:48",
+        "deviation_distance_km":-29.9206251532,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000024",
+        "trip_id":"TID_0076",
+        "deviation_start":"2024-01-22 05:02:00",
+        "deviation_end":"2024-01-22 12:36:12",
+        "deviation_distance_km":46.99,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000025",
+        "trip_id":"TID_0079",
+        "deviation_start":"2024-03-13 18:35:00",
+        "deviation_end":"2024-03-14 01:08:36",
+        "deviation_distance_km":28.05,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000026",
+        "trip_id":"TID_0082",
+        "deviation_start":"2024-01-29 16:40:00",
+        "deviation_end":"2024-01-30 04:20:12",
+        "deviation_distance_km":46.86,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000027",
+        "trip_id":"TID_0089",
+        "deviation_start":"2024-01-12 14:41:00",
+        "deviation_end":"2024-01-13 14:50:36",
+        "deviation_distance_km":37.15,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000028",
+        "trip_id":"TID_0094",
+        "deviation_start":"2024-03-03 20:20:00",
+        "deviation_end":"2024-03-04 08:38:00",
+        "deviation_distance_km":25.6,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000029",
+        "trip_id":"TID_0096",
+        "deviation_start":"2024-03-31 15:34:00",
+        "deviation_end":"2024-04-01 03:58:00",
+        "deviation_distance_km":20.18,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000030",
+        "trip_id":"TID_0097",
+        "deviation_start":"2024-03-07 22:09:00",
+        "deviation_end":"2024-03-08 09:53:24",
+        "deviation_distance_km":23.82,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000031",
+        "trip_id":"TID_0099",
+        "deviation_start":"2024-01-20 20:33:00",
+        "deviation_end":"2024-01-21 15:27:00",
+        "deviation_distance_km":29.42,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000032",
+        "trip_id":"TID_0103",
+        "deviation_start":"2024-01-07 10:31:00",
+        "deviation_end":"2024-01-07 16:38:12",
+        "deviation_distance_km":30.37,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000033",
+        "trip_id":"TID_0105",
+        "deviation_start":"2024-02-10 16:55:00",
+        "deviation_end":"2024-02-11 08:38:48",
+        "deviation_distance_km":34.68,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000034",
+        "trip_id":"TID_0112",
+        "deviation_start":"2024-01-10 18:08:00",
+        "deviation_end":"2024-01-11 01:29:36",
+        "deviation_distance_km":10.82,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000035",
+        "trip_id":"TID_0114",
+        "deviation_start":"2024-02-01 06:50:00",
+        "deviation_end":"2024-02-01 13:00:48",
+        "deviation_distance_km":19.3,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000036",
+        "trip_id":"TID_0117",
+        "deviation_start":"2024-02-26 08:16:00",
+        "deviation_end":"2024-02-26 20:08:12",
+        "deviation_distance_km":33.77,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000037",
+        "trip_id":"TID_0121",
+        "deviation_start":"2024-02-29 11:45:00",
+        "deviation_end":"2024-02-29 20:55:48",
+        "deviation_distance_km":14.21,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000038",
+        "trip_id":"TID_0122",
+        "deviation_start":"2024-01-11 07:02:00",
+        "deviation_end":"2024-01-12 04:23:00",
+        "deviation_distance_km":21.53,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000039",
+        "trip_id":"TID_0127",
+        "deviation_start":"2024-03-31 05:57:00",
+        "deviation_end":"2024-03-31 18:30:36",
+        "deviation_distance_km":13.11,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000040",
+        "trip_id":"TID_0128",
+        "deviation_start":"2024-02-21 01:41:00",
+        "deviation_end":"2024-02-21 10:59:00",
+        "deviation_distance_km":17.79,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000041",
+        "trip_id":"TID_0133",
+        "deviation_start":"2024-01-20 15:29:00",
+        "deviation_end":"2024-01-21 06:07:24",
+        "deviation_distance_km":33.08,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000042",
+        "trip_id":"TID_0138",
+        "deviation_start":"2024-01-29 02:59:00",
+        "deviation_end":"2024-01-29 16:41:00",
+        "deviation_distance_km":-41.3804456168,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000043",
+        "trip_id":"TID_0139",
+        "deviation_start":"2024-01-25 16:57:00",
+        "deviation_end":"2024-01-26 02:31:48",
+        "deviation_distance_km":11.15,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000044",
+        "trip_id":"TID_0140",
+        "deviation_start":"2024-02-24 02:52:00",
+        "deviation_end":"2024-02-24 18:34:00",
+        "deviation_distance_km":9.47,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000045",
+        "trip_id":"TID_0141",
+        "deviation_start":"2024-03-15 07:56:00",
+        "deviation_end":"2024-03-15 19:42:12",
+        "deviation_distance_km":8.65,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000046",
+        "trip_id":"TID_0145",
+        "deviation_start":"2024-03-17 17:14:00",
+        "deviation_end":"2024-03-17 23:36:12",
+        "deviation_distance_km":-31.8098410919,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000047",
+        "trip_id":"TID_0146",
+        "deviation_start":"2024-03-01 11:51:00",
+        "deviation_end":"2024-03-02 02:34:12",
+        "deviation_distance_km":9.57,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000048",
+        "trip_id":"TID_0147",
+        "deviation_start":"2024-01-14 00:39:00",
+        "deviation_end":"2024-01-14 13:12:36",
+        "deviation_distance_km":11.03,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000049",
+        "trip_id":"TID_0149",
+        "deviation_start":"2024-03-10 17:52:00",
+        "deviation_end":"2024-03-11 15:23:48",
+        "deviation_distance_km":32.86,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000050",
+        "trip_id":"TID_0151",
+        "deviation_start":"2024-03-02 18:42:00",
+        "deviation_end":"2024-03-03 06:24:36",
+        "deviation_distance_km":8.73,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000051",
+        "trip_id":"TID_0156",
+        "deviation_start":"2024-02-01 11:06:00",
+        "deviation_end":"2024-02-01 19:46:48",
+        "deviation_distance_km":33.12,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000052",
+        "trip_id":"TID_0157",
+        "deviation_start":"2024-02-14 06:10:00",
+        "deviation_end":"2024-02-14 12:08:12",
+        "deviation_distance_km":21.58,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000053",
+        "trip_id":"TID_0159",
+        "deviation_start":"2024-03-20 00:16:00",
+        "deviation_end":"2024-03-20 20:34:00",
+        "deviation_distance_km":10.2,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000054",
+        "trip_id":"TID_0161",
+        "deviation_start":"2024-02-28 07:52:00",
+        "deviation_end":"2024-02-28 14:35:12",
+        "deviation_distance_km":9.44,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000055",
+        "trip_id":"TID_0162",
+        "deviation_start":"2024-02-27 07:22:00",
+        "deviation_end":"2024-02-28 00:40:00",
+        "deviation_distance_km":29.24,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000056",
+        "trip_id":"TID_0163",
+        "deviation_start":"2024-03-29 13:06:00",
+        "deviation_end":"2024-03-30 00:39:00",
+        "deviation_distance_km":-11.3569591173,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000057",
+        "trip_id":"TID_0168",
+        "deviation_start":"2024-03-25 03:11:00",
+        "deviation_end":"2024-03-25 13:34:24",
+        "deviation_distance_km":-30.23211417,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000058",
+        "trip_id":"TID_0175",
+        "deviation_start":"2024-02-11 20:43:00",
+        "deviation_end":"2024-02-12 14:11:48",
+        "deviation_distance_km":40.61,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000059",
+        "trip_id":"TID_0180",
+        "deviation_start":"2024-02-22 19:29:00",
+        "deviation_end":"2024-02-23 10:27:48",
+        "deviation_distance_km":11.32,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000060",
+        "trip_id":"TID_0181",
+        "deviation_start":"2024-01-24 11:34:00",
+        "deviation_end":"2024-01-24 06:16:36",
+        "deviation_distance_km":24.15,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000061",
+        "trip_id":"TID_0184",
+        "deviation_start":"2024-03-15 07:55:00",
+        "deviation_end":"2024-03-15 15:46:00",
+        "deviation_distance_km":8.09,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000062",
+        "trip_id":"TID_0185",
+        "deviation_start":"2024-03-18 03:02:00",
+        "deviation_end":"2024-03-18 08:52:24",
+        "deviation_distance_km":42.5,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000063",
+        "trip_id":"TID_0187",
+        "deviation_start":"2024-01-17 09:57:00",
+        "deviation_end":"2024-01-18 02:14:24",
+        "deviation_distance_km":-35.3018591409,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000064",
+        "trip_id":"TID_0191",
+        "deviation_start":"2024-03-06 13:49:00",
+        "deviation_end":"2024-03-06 20:03:24",
+        "deviation_distance_km":25.05,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000065",
+        "trip_id":"TID_0194",
+        "deviation_start":"2024-02-28 17:32:00",
+        "deviation_end":"2024-02-29 04:26:00",
+        "deviation_distance_km":9.48,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000066",
+        "trip_id":"TID_0198",
+        "deviation_start":"2024-01-16 11:56:00",
+        "deviation_end":"2024-01-17 02:09:48",
+        "deviation_distance_km":39.56,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000067",
+        "trip_id":"TID_0203",
+        "deviation_start":"2024-02-14 10:38:00",
+        "deviation_end":"2024-02-14 20:38:00",
+        "deviation_distance_km":12.85,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000068",
+        "trip_id":"TID_0205",
+        "deviation_start":"2024-03-10 08:34:00",
+        "deviation_end":"2024-03-11 08:44:48",
+        "deviation_distance_km":12.46,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000069",
+        "trip_id":"TID_0207",
+        "deviation_start":"2024-03-10 08:40:00",
+        "deviation_end":"2024-03-10 17:36:24",
+        "deviation_distance_km":19.56,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000070",
+        "trip_id":"TID_0208",
+        "deviation_start":"2024-03-10 11:03:00",
+        "deviation_end":"2024-03-10 17:53:24",
+        "deviation_distance_km":42.33,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000071",
+        "trip_id":"TID_0213",
+        "deviation_start":"2024-01-18 16:37:00",
+        "deviation_end":"2024-01-18 23:49:36",
+        "deviation_distance_km":-24.8904874324,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000072",
+        "trip_id":"TID_0215",
+        "deviation_start":"2024-01-15 04:37:00",
+        "deviation_end":"2024-01-15 00:40:00",
+        "deviation_distance_km":29.19,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000073",
+        "trip_id":"TID_0218",
+        "deviation_start":"2024-03-18 11:43:00",
+        "deviation_end":"2024-03-18 19:38:12",
+        "deviation_distance_km":46.29,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000074",
+        "trip_id":"TID_0224",
+        "deviation_start":"2024-02-14 08:40:00",
+        "deviation_end":"2024-02-15 00:49:36",
+        "deviation_distance_km":38.01,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000075",
+        "trip_id":"TID_0230",
+        "deviation_start":"2024-01-12 05:54:00",
+        "deviation_end":"2024-01-12 05:54:00",
+        "deviation_distance_km":40.62,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000076",
+        "trip_id":"TID_0235",
+        "deviation_start":"2024-03-18 07:11:00",
+        "deviation_end":"2024-03-18 07:11:00",
+        "deviation_distance_km":33.51,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000077",
+        "trip_id":"TID_0237",
+        "deviation_start":"2024-03-22 03:16:00",
+        "deviation_end":"2024-03-21 23:30:24",
+        "deviation_distance_km":36.13,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000078",
+        "trip_id":"TID_0239",
+        "deviation_start":"2024-01-27 00:32:00",
+        "deviation_end":"2024-01-27 06:32:00",
+        "deviation_distance_km":26.32,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000079",
+        "trip_id":"TID_0241",
+        "deviation_start":"2024-01-01 16:31:00",
+        "deviation_end":"2024-01-02 07:31:00",
+        "deviation_distance_km":21.97,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000080",
+        "trip_id":"TID_0243",
+        "deviation_start":"2024-02-17 09:36:00",
+        "deviation_end":"2024-02-17 07:14:24",
+        "deviation_distance_km":15.78,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000081",
+        "trip_id":"TID_0252",
+        "deviation_start":"2024-02-25 19:23:00",
+        "deviation_end":"2024-02-26 06:01:24",
+        "deviation_distance_km":10.68,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000082",
+        "trip_id":"TID_0253",
+        "deviation_start":"2024-03-31 14:12:00",
+        "deviation_end":"2024-04-01 03:54:00",
+        "deviation_distance_km":35.1,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000083",
+        "trip_id":"TID_0255",
+        "deviation_start":"2024-01-26 03:21:00",
+        "deviation_end":"2024-01-26 08:05:24",
+        "deviation_distance_km":14.08,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000084",
+        "trip_id":"TID_0262",
+        "deviation_start":"2024-03-04 03:37:00",
+        "deviation_end":"2024-03-04 20:02:12",
+        "deviation_distance_km":23.96,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000085",
+        "trip_id":"TID_0265",
+        "deviation_start":"2024-01-25 03:34:00",
+        "deviation_end":"2024-01-25 09:35:48",
+        "deviation_distance_km":7.8,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000086",
+        "trip_id":"TID_0266",
+        "deviation_start":"2024-01-08 16:15:00",
+        "deviation_end":"2024-01-09 07:38:24",
+        "deviation_distance_km":26.06,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000087",
+        "trip_id":"TID_0267",
+        "deviation_start":"2024-01-03 09:19:00",
+        "deviation_end":"2024-01-03 22:58:00",
+        "deviation_distance_km":19.53,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000088",
+        "trip_id":"TID_0268",
+        "deviation_start":"2024-01-28 18:43:00",
+        "deviation_end":"2024-01-29 09:31:36",
+        "deviation_distance_km":41.76,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000089",
+        "trip_id":"TID_0272",
+        "deviation_start":"2024-03-04 19:48:00",
+        "deviation_end":"2024-03-05 07:54:00",
+        "deviation_distance_km":6.99,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000090",
+        "trip_id":"TID_0273",
+        "deviation_start":"2024-01-25 19:54:00",
+        "deviation_end":"2024-01-26 04:22:48",
+        "deviation_distance_km":10.58,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000091",
+        "trip_id":"TID_0278",
+        "deviation_start":"2024-02-15 14:50:00",
+        "deviation_end":"2024-02-16 15:45:48",
+        "deviation_distance_km":13.23,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000092",
+        "trip_id":"TID_0279",
+        "deviation_start":"2024-03-24 05:23:00",
+        "deviation_end":"2024-03-24 12:33:12",
+        "deviation_distance_km":8.4,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000093",
+        "trip_id":"TID_0289",
+        "deviation_start":"2024-03-03 06:42:00",
+        "deviation_end":"2024-03-03 17:32:24",
+        "deviation_distance_km":25.36,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000094",
+        "trip_id":"TID_0291",
+        "deviation_start":"2024-03-07 17:03:00",
+        "deviation_end":"2024-03-07 22:17:24",
+        "deviation_distance_km":44.03,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000095",
+        "trip_id":"TID_0293",
+        "deviation_start":"2024-01-21 08:54:00",
+        "deviation_end":"2024-01-22 07:14:24",
+        "deviation_distance_km":6.54,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000096",
+        "trip_id":"TID_0295",
+        "deviation_start":"2024-02-03 12:39:00",
+        "deviation_end":"2024-02-03 21:39:00",
+        "deviation_distance_km":29.8,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000097",
+        "trip_id":"TID_0297",
+        "deviation_start":"2024-01-24 05:21:00",
+        "deviation_end":"2024-01-25 03:16:48",
+        "deviation_distance_km":40.19,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000098",
+        "trip_id":"TID_0302",
+        "deviation_start":"2024-01-12 11:51:00",
+        "deviation_end":"2024-01-12 18:19:48",
+        "deviation_distance_km":47.31,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000099",
+        "trip_id":"TID_0304",
+        "deviation_start":"2024-03-21 21:32:00",
+        "deviation_end":"2024-03-22 13:10:24",
+        "deviation_distance_km":40.6,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000100",
+        "trip_id":"TID_0307",
+        "deviation_start":"2024-03-30 21:00:00",
+        "deviation_end":"2024-03-31 14:19:12",
+        "deviation_distance_km":35.94,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000101",
+        "trip_id":"TID_0315",
+        "deviation_start":"2024-03-04 12:03:00",
+        "deviation_end":"2024-03-04 23:47:24",
+        "deviation_distance_km":46.08,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000102",
+        "trip_id":"TID_0320",
+        "deviation_start":"2024-01-28 16:54:00",
+        "deviation_end":"2024-01-29 02:06:00",
+        "deviation_distance_km":24.71,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000103",
+        "trip_id":"TID_0321",
+        "deviation_start":"2024-03-25 14:48:00",
+        "deviation_end":"2024-03-25 22:42:00",
+        "deviation_distance_km":5.92,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000104",
+        "trip_id":"TID_0328",
+        "deviation_start":"2024-01-09 03:04:00",
+        "deviation_end":"2024-01-09 10:09:24",
+        "deviation_distance_km":35.71,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000105",
+        "trip_id":"TID_0334",
+        "deviation_start":"2024-01-19 02:42:00",
+        "deviation_end":"2024-01-19 15:46:12",
+        "deviation_distance_km":40.43,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000106",
+        "trip_id":"TID_0337",
+        "deviation_start":"2024-01-13 20:50:00",
+        "deviation_end":"2024-01-14 05:59:00",
+        "deviation_distance_km":11.52,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000107",
+        "trip_id":"TID_0341",
+        "deviation_start":"2024-01-28 15:44:00",
+        "deviation_end":"2024-01-28 15:44:00",
+        "deviation_distance_km":48.55,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000108",
+        "trip_id":"TID_0344",
+        "deviation_start":"2024-01-28 00:09:00",
+        "deviation_end":"2024-01-28 06:18:00",
+        "deviation_distance_km":9.25,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000109",
+        "trip_id":"TID_0352",
+        "deviation_start":"2024-01-27 20:09:00",
+        "deviation_end":"2024-01-28 03:15:00",
+        "deviation_distance_km":5.81,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000110",
+        "trip_id":"TID_0354",
+        "deviation_start":"2024-03-02 14:24:00",
+        "deviation_end":"2024-03-03 04:09:00",
+        "deviation_distance_km":-18.7483660387,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000111",
+        "trip_id":"TID_0357",
+        "deviation_start":"2024-02-11 03:54:00",
+        "deviation_end":"2024-02-11 11:03:36",
+        "deviation_distance_km":47.1,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000112",
+        "trip_id":"TID_0360",
+        "deviation_start":"2024-02-24 17:22:00",
+        "deviation_end":"2024-02-24 13:36:24",
+        "deviation_distance_km":23.98,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000113",
+        "trip_id":"TID_0361",
+        "deviation_start":"2024-01-08 21:44:00",
+        "deviation_end":"2024-01-09 06:52:24",
+        "deviation_distance_km":31.44,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000114",
+        "trip_id":"TID_0366",
+        "deviation_start":"2024-02-20 09:46:00",
+        "deviation_end":"2024-02-20 21:24:24",
+        "deviation_distance_km":14.09,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000115",
+        "trip_id":"TID_0368",
+        "deviation_start":"2024-01-26 10:46:00",
+        "deviation_end":"2024-01-27 01:27:24",
+        "deviation_distance_km":17.45,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000116",
+        "trip_id":"TID_0371",
+        "deviation_start":"2024-02-03 17:05:00",
+        "deviation_end":"2024-02-04 11:50:00",
+        "deviation_distance_km":32.76,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000117",
+        "trip_id":"TID_0373",
+        "deviation_start":"2024-03-21 01:21:00",
+        "deviation_end":"2024-03-21 14:25:48",
+        "deviation_distance_km":40.6,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000118",
+        "trip_id":"TID_0374",
+        "deviation_start":"2024-02-21 14:50:00",
+        "deviation_end":"2024-02-21 11:19:24",
+        "deviation_distance_km":13.94,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000119",
+        "trip_id":"TID_0382",
+        "deviation_start":"2024-02-12 04:17:00",
+        "deviation_end":"2024-02-12 13:33:48",
+        "deviation_distance_km":22.27,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000120",
+        "trip_id":"TID_0385",
+        "deviation_start":"2024-01-03 02:32:00",
+        "deviation_end":"2024-01-03 12:57:48",
+        "deviation_distance_km":-31.7674709481,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000121",
+        "trip_id":"TID_0395",
+        "deviation_start":"2024-02-22 09:35:00",
+        "deviation_end":"2024-02-23 08:59:36",
+        "deviation_distance_km":21.42,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000122",
+        "trip_id":"TID_0397",
+        "deviation_start":"2024-03-27 05:16:00",
+        "deviation_end":"2024-03-27 02:50:12",
+        "deviation_distance_km":16.3,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000123",
+        "trip_id":"TID_0403",
+        "deviation_start":"2024-02-17 16:21:00",
+        "deviation_end":"2024-02-18 01:23:24",
+        "deviation_distance_km":31.85,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000124",
+        "trip_id":"TID_0412",
+        "deviation_start":"2024-03-07 15:52:00",
+        "deviation_end":"2024-03-08 14:14:12",
+        "deviation_distance_km":20.89,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000125",
+        "trip_id":"TID_0413",
+        "deviation_start":"2024-03-04 22:34:00",
+        "deviation_end":"2024-03-05 11:20:48",
+        "deviation_distance_km":17.99,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000126",
+        "trip_id":"TID_0420",
+        "deviation_start":"2024-01-27 19:27:00",
+        "deviation_end":"2024-01-27 16:28:12",
+        "deviation_distance_km":46.89,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000127",
+        "trip_id":"TID_0424",
+        "deviation_start":"2024-02-29 17:30:00",
+        "deviation_end":"2024-03-01 05:42:00",
+        "deviation_distance_km":9.71,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000128",
+        "trip_id":"TID_0428",
+        "deviation_start":"2024-02-17 14:20:00",
+        "deviation_end":"2024-02-17 20:25:24",
+        "deviation_distance_km":26.4,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000129",
+        "trip_id":"TID_0429",
+        "deviation_start":"2024-02-01 05:39:00",
+        "deviation_end":"2024-02-01 00:49:48",
+        "deviation_distance_km":-34.6751309073,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000130",
+        "trip_id":"TID_0431",
+        "deviation_start":"2024-01-26 09:21:00",
+        "deviation_end":"2024-01-26 16:17:24",
+        "deviation_distance_km":22.08,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000131",
+        "trip_id":"TID_0436",
+        "deviation_start":"2024-01-16 00:07:00",
+        "deviation_end":"2024-01-16 07:34:36",
+        "deviation_distance_km":26.4,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000132",
+        "trip_id":"TID_0437",
+        "deviation_start":"2024-02-04 16:16:00",
+        "deviation_end":"2024-02-05 01:58:36",
+        "deviation_distance_km":32.52,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000133",
+        "trip_id":"TID_0439",
+        "deviation_start":"2024-02-04 13:14:00",
+        "deviation_end":"2024-02-04 21:33:48",
+        "deviation_distance_km":22.2,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000134",
+        "trip_id":"TID_0442",
+        "deviation_start":"2024-01-17 00:54:00",
+        "deviation_end":"2024-01-17 08:09:36",
+        "deviation_distance_km":-47.5427061129,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000135",
+        "trip_id":"TID_0447",
+        "deviation_start":"2024-03-22 06:54:00",
+        "deviation_end":"2024-03-22 15:13:12",
+        "deviation_distance_km":10.21,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000136",
+        "trip_id":"TID_0449",
+        "deviation_start":"2024-02-18 15:44:00",
+        "deviation_end":"2024-02-19 13:01:24",
+        "deviation_distance_km":19.89,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000137",
+        "trip_id":"TID_0459",
+        "deviation_start":"2024-02-18 04:46:00",
+        "deviation_end":"2024-02-18 02:13:00",
+        "deviation_distance_km":47.6,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000138",
+        "trip_id":"TID_0474",
+        "deviation_start":"2024-01-17 11:24:00",
+        "deviation_end":"2024-01-17 22:42:36",
+        "deviation_distance_km":25.39,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000139",
+        "trip_id":"TID_0475",
+        "deviation_start":"2024-03-08 08:48:00",
+        "deviation_end":"2024-03-09 02:53:24",
+        "deviation_distance_km":20.95,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000140",
+        "trip_id":"TID_0478",
+        "deviation_start":"2024-01-02 13:28:00",
+        "deviation_end":"2024-01-02 06:43:00",
+        "deviation_distance_km":19.1,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000141",
+        "trip_id":"TID_0480",
+        "deviation_start":"2024-01-07 08:16:00",
+        "deviation_end":"2024-01-07 14:46:36",
+        "deviation_distance_km":15.98,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000142",
+        "trip_id":"TID_0483",
+        "deviation_start":"2024-03-13 19:07:00",
+        "deviation_end":"2024-03-14 08:40:36",
+        "deviation_distance_km":39.76,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000143",
+        "trip_id":"TID_0492",
+        "deviation_start":"2024-01-12 14:47:00",
+        "deviation_end":"2024-01-12 22:49:24",
+        "deviation_distance_km":38.38,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000144",
+        "trip_id":"TID_0494",
+        "deviation_start":"2024-03-20 17:03:00",
+        "deviation_end":"2024-03-21 02:23:24",
+        "deviation_distance_km":47.02,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000145",
+        "trip_id":"TID_0505",
+        "deviation_start":"2024-01-15 17:57:00",
+        "deviation_end":"2024-01-16 09:13:12",
+        "deviation_distance_km":37.65,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000146",
+        "trip_id":"TID_0510",
+        "deviation_start":"2024-01-20 10:33:00",
+        "deviation_end":"2024-01-20 18:18:36",
+        "deviation_distance_km":-24.4667555737,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000147",
+        "trip_id":"TID_0514",
+        "deviation_start":"2024-03-26 00:15:00",
+        "deviation_end":"2024-03-26 07:34:48",
+        "deviation_distance_km":26.39,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000148",
+        "trip_id":"TID_0515",
+        "deviation_start":"2024-01-14 14:49:00",
+        "deviation_end":"2024-01-14 12:33:24",
+        "deviation_distance_km":30.26,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000149",
+        "trip_id":"TID_0519",
+        "deviation_start":"2024-02-14 12:18:00",
+        "deviation_end":"2024-02-15 01:54:36",
+        "deviation_distance_km":5.96,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000150",
+        "trip_id":"TID_0523",
+        "deviation_start":"2024-03-23 15:41:00",
+        "deviation_end":"2024-03-24 01:54:48",
+        "deviation_distance_km":39.46,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000151",
+        "trip_id":"TID_0526",
+        "deviation_start":"2024-01-09 08:25:00",
+        "deviation_end":"2024-01-09 19:34:36",
+        "deviation_distance_km":30.39,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000152",
+        "trip_id":"TID_0530",
+        "deviation_start":"2024-03-21 15:13:00",
+        "deviation_end":"2024-03-21 22:19:00",
+        "deviation_distance_km":43.38,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000153",
+        "trip_id":"TID_0532",
+        "deviation_start":"2024-03-08 20:51:00",
+        "deviation_end":"2024-03-09 15:08:24",
+        "deviation_distance_km":10.92,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000154",
+        "trip_id":"TID_0534",
+        "deviation_start":"2024-01-15 21:03:00",
+        "deviation_end":"2024-01-16 13:42:00",
+        "deviation_distance_km":12.47,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000155",
+        "trip_id":"TID_0538",
+        "deviation_start":"2024-01-07 17:05:00",
+        "deviation_end":"2024-01-07 10:39:12",
+        "deviation_distance_km":42.32,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000156",
+        "trip_id":"TID_0542",
+        "deviation_start":"2024-01-18 16:50:00",
+        "deviation_end":"2024-01-19 03:05:36",
+        "deviation_distance_km":47.62,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000157",
+        "trip_id":"TID_0543",
+        "deviation_start":"2024-03-15 09:44:00",
+        "deviation_end":"2024-03-16 02:24:48",
+        "deviation_distance_km":6.6,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000158",
+        "trip_id":"TID_0545",
+        "deviation_start":"2024-02-02 20:58:00",
+        "deviation_end":"2024-02-03 03:47:48",
+        "deviation_distance_km":45.93,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000159",
+        "trip_id":"TID_0547",
+        "deviation_start":"2024-03-24 09:46:00",
+        "deviation_end":"2024-03-24 14:56:12",
+        "deviation_distance_km":17.76,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000160",
+        "trip_id":"TID_0549",
+        "deviation_start":"2024-02-15 01:01:00",
+        "deviation_end":"2024-02-15 09:39:24",
+        "deviation_distance_km":-34.1324150495,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000161",
+        "trip_id":"TID_0551",
+        "deviation_start":"2024-02-13 04:20:00",
+        "deviation_end":"2024-02-13 12:30:48",
+        "deviation_distance_km":-44.3303031711,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000162",
+        "trip_id":"TID_0566",
+        "deviation_start":"2024-01-14 20:52:00",
+        "deviation_end":"2024-01-15 18:23:48",
+        "deviation_distance_km":34.01,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000163",
+        "trip_id":"TID_0572",
+        "deviation_start":"2024-02-03 16:30:00",
+        "deviation_end":"2024-02-03 22:50:24",
+        "deviation_distance_km":40.32,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000164",
+        "trip_id":"TID_0582",
+        "deviation_start":"2024-03-06 13:05:00",
+        "deviation_end":"2024-03-06 19:13:24",
+        "deviation_distance_km":5.53,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000165",
+        "trip_id":"TID_0585",
+        "deviation_start":"2024-02-09 22:44:00",
+        "deviation_end":"2024-02-10 15:38:36",
+        "deviation_distance_km":23.3,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000166",
+        "trip_id":"TID_0590",
+        "deviation_start":"2024-01-17 21:06:00",
+        "deviation_end":"2024-01-17 21:06:00",
+        "deviation_distance_km":30.92,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000167",
+        "trip_id":"TID_0592",
+        "deviation_start":"2024-01-22 21:45:00",
+        "deviation_end":"2024-01-23 03:46:48",
+        "deviation_distance_km":6.46,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000168",
+        "trip_id":"TID_0593",
+        "deviation_start":"2024-01-02 21:33:00",
+        "deviation_end":"2024-01-03 08:43:12",
+        "deviation_distance_km":7.48,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000169",
+        "trip_id":"TID_0596",
+        "deviation_start":"2024-02-08 13:52:00",
+        "deviation_end":"2024-02-09 03:38:12",
+        "deviation_distance_km":-33.3855164483,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000170",
+        "trip_id":"TID_0599",
+        "deviation_start":"2024-02-06 05:16:00",
+        "deviation_end":"2024-02-06 18:25:36",
+        "deviation_distance_km":9.3,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000171",
+        "trip_id":"TID_0603",
+        "deviation_start":"2024-02-01 12:25:00",
+        "deviation_end":"2024-02-01 18:08:12",
+        "deviation_distance_km":-37.5231664884,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000172",
+        "trip_id":"TID_0608",
+        "deviation_start":"2024-01-26 00:30:00",
+        "deviation_end":"2024-01-26 15:17:24",
+        "deviation_distance_km":-43.1405134993,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000173",
+        "trip_id":"TID_0609",
+        "deviation_start":"2024-02-01 08:31:00",
+        "deviation_end":"2024-02-01 15:56:12",
+        "deviation_distance_km":22.94,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000174",
+        "trip_id":"TID_0610",
+        "deviation_start":"2024-03-05 18:59:00",
+        "deviation_end":"2024-03-06 04:41:00",
+        "deviation_distance_km":30.28,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000175",
+        "trip_id":"TID_0611",
+        "deviation_start":"2024-02-25 16:58:00",
+        "deviation_end":"2024-02-25 22:10:00",
+        "deviation_distance_km":13.63,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000176",
+        "trip_id":"TID_0612",
+        "deviation_start":"2024-02-03 08:38:00",
+        "deviation_end":"2024-02-04 04:16:24",
+        "deviation_distance_km":44.6,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000177",
+        "trip_id":"TID_0616",
+        "deviation_start":"2024-01-01 20:27:00",
+        "deviation_end":"2024-01-02 08:18:36",
+        "deviation_distance_km":7.0,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000178",
+        "trip_id":"TID_0620",
+        "deviation_start":"2024-03-31 10:24:00",
+        "deviation_end":"2024-03-31 16:36:36",
+        "deviation_distance_km":14.9,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000179",
+        "trip_id":"TID_0621",
+        "deviation_start":"2024-02-24 07:03:00",
+        "deviation_end":"2024-02-24 12:12:36",
+        "deviation_distance_km":37.35,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000180",
+        "trip_id":"TID_0622",
+        "deviation_start":"2024-01-12 07:01:00",
+        "deviation_end":"2024-01-12 13:52:36",
+        "deviation_distance_km":45.64,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000181",
+        "trip_id":"TID_0623",
+        "deviation_start":"2024-01-21 05:13:00",
+        "deviation_end":"2024-01-21 11:57:24",
+        "deviation_distance_km":11.27,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000182",
+        "trip_id":"TID_0631",
+        "deviation_start":"2024-03-06 02:51:00",
+        "deviation_end":"2024-03-06 12:18:36",
+        "deviation_distance_km":44.74,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000183",
+        "trip_id":"TID_0633",
+        "deviation_start":"2024-02-01 12:46:00",
+        "deviation_end":"2024-02-02 09:39:24",
+        "deviation_distance_km":9.71,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000184",
+        "trip_id":"TID_0636",
+        "deviation_start":"2024-02-01 09:31:00",
+        "deviation_end":"2024-02-01 19:47:12",
+        "deviation_distance_km":14.09,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000185",
+        "trip_id":"TID_0637",
+        "deviation_start":"2024-02-01 21:36:00",
+        "deviation_end":"2024-02-02 08:15:00",
+        "deviation_distance_km":10.41,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000186",
+        "trip_id":"TID_0639",
+        "deviation_start":"2024-03-15 23:52:00",
+        "deviation_end":"2024-03-16 13:38:12",
+        "deviation_distance_km":27.99,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000187",
+        "trip_id":"TID_0642",
+        "deviation_start":"2024-03-07 07:59:00",
+        "deviation_end":"2024-03-07 13:27:12",
+        "deviation_distance_km":38.51,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000188",
+        "trip_id":"TID_0650",
+        "deviation_start":"2024-01-04 04:40:00",
+        "deviation_end":"2024-01-04 18:17:48",
+        "deviation_distance_km":48.04,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000189",
+        "trip_id":"TID_0651",
+        "deviation_start":"2024-02-07 09:46:00",
+        "deviation_end":"2024-02-07 16:54:24",
+        "deviation_distance_km":26.12,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000190",
+        "trip_id":"TID_0657",
+        "deviation_start":"2024-03-15 22:17:00",
+        "deviation_end":"2024-03-16 07:26:36",
+        "deviation_distance_km":19.98,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000191",
+        "trip_id":"TID_0661",
+        "deviation_start":"2024-01-12 14:26:00",
+        "deviation_end":"2024-01-13 03:35:36",
+        "deviation_distance_km":21.15,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000192",
+        "trip_id":"TID_0663",
+        "deviation_start":"2024-02-15 06:40:00",
+        "deviation_end":"2024-02-15 13:36:24",
+        "deviation_distance_km":43.26,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000193",
+        "trip_id":"TID_0666",
+        "deviation_start":"2024-02-22 10:17:00",
+        "deviation_end":"2024-02-22 18:45:48",
+        "deviation_distance_km":44.56,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000194",
+        "trip_id":"TID_0670",
+        "deviation_start":"2024-03-24 11:57:00",
+        "deviation_end":"2024-03-24 21:51:00",
+        "deviation_distance_km":49.82,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000195",
+        "trip_id":"TID_0672",
+        "deviation_start":"2024-01-16 13:44:00",
+        "deviation_end":"2024-01-17 08:47:36",
+        "deviation_distance_km":14.48,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000196",
+        "trip_id":"TID_0678",
+        "deviation_start":"2024-01-16 16:10:00",
+        "deviation_end":"2024-01-16 21:48:24",
+        "deviation_distance_km":11.36,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000197",
+        "trip_id":"TID_0679",
+        "deviation_start":"2024-01-09 00:45:00",
+        "deviation_end":"2024-01-09 08:08:24",
+        "deviation_distance_km":39.32,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000198",
+        "trip_id":"TID_0680",
+        "deviation_start":"2024-03-25 09:26:00",
+        "deviation_end":"2024-03-26 04:18:48",
+        "deviation_distance_km":36.01,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000199",
+        "trip_id":"TID_0682",
+        "deviation_start":"2024-01-16 22:08:00",
+        "deviation_end":"2024-01-17 18:02:36",
+        "deviation_distance_km":47.04,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000200",
+        "trip_id":"TID_0685",
+        "deviation_start":"2024-01-07 01:59:00",
+        "deviation_end":"2024-01-07 08:24:48",
+        "deviation_distance_km":24.91,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000201",
+        "trip_id":"TID_0686",
+        "deviation_start":"2024-01-01 20:08:00",
+        "deviation_end":"2024-01-01 20:08:00",
+        "deviation_distance_km":8.04,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000202",
+        "trip_id":"TID_0688",
+        "deviation_start":"2024-02-06 14:36:00",
+        "deviation_end":"2024-02-07 04:19:48",
+        "deviation_distance_km":45.69,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000203",
+        "trip_id":"TID_0689",
+        "deviation_start":"2024-01-03 11:59:00",
+        "deviation_end":"2024-01-04 00:45:48",
+        "deviation_distance_km":39.32,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000204",
+        "trip_id":"TID_0691",
+        "deviation_start":"2024-02-24 17:09:00",
+        "deviation_end":"2024-02-25 10:22:48",
+        "deviation_distance_km":33.1,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000205",
+        "trip_id":"TID_0692",
+        "deviation_start":"2024-03-19 00:44:00",
+        "deviation_end":"2024-03-19 16:22:24",
+        "deviation_distance_km":47.23,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000206",
+        "trip_id":"TID_0699",
+        "deviation_start":"2024-03-10 18:57:00",
+        "deviation_end":"2024-03-11 01:19:48",
+        "deviation_distance_km":17.18,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000207",
+        "trip_id":"TID_0701",
+        "deviation_start":"2024-02-14 11:30:00",
+        "deviation_end":"2024-02-14 22:46:48",
+        "deviation_distance_km":8.41,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000208",
+        "trip_id":"TID_0703",
+        "deviation_start":"2024-01-06 20:00:00",
+        "deviation_end":"2024-01-07 04:04:48",
+        "deviation_distance_km":12.14,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000209",
+        "trip_id":"TID_0704",
+        "deviation_start":"2024-02-15 05:51:00",
+        "deviation_end":"2024-02-16 04:33:36",
+        "deviation_distance_km":48.25,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000210",
+        "trip_id":"TID_0709",
+        "deviation_start":"2024-03-05 22:27:00",
+        "deviation_end":"2024-03-06 15:31:48",
+        "deviation_distance_km":40.54,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000211",
+        "trip_id":"TID_0710",
+        "deviation_start":"2024-03-20 23:13:00",
+        "deviation_end":"2024-03-21 12:11:48",
+        "deviation_distance_km":43.76,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000212",
+        "trip_id":"TID_0711",
+        "deviation_start":"2024-03-23 11:48:00",
+        "deviation_end":"2024-03-24 06:30:36",
+        "deviation_distance_km":-32.3831761039,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000213",
+        "trip_id":"TID_0714",
+        "deviation_start":"2024-03-24 00:56:00",
+        "deviation_end":"2024-03-25 01:36:12",
+        "deviation_distance_km":45.81,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000214",
+        "trip_id":"TID_0716",
+        "deviation_start":"2024-02-12 21:22:00",
+        "deviation_end":"2024-02-13 05:07:36",
+        "deviation_distance_km":16.94,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000215",
+        "trip_id":"TID_0717",
+        "deviation_start":"2024-02-20 08:02:00",
+        "deviation_end":"2024-02-20 18:24:48",
+        "deviation_distance_km":-45.3429919961,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000216",
+        "trip_id":"TID_0724",
+        "deviation_start":"2024-03-30 19:24:00",
+        "deviation_end":"2024-03-31 01:17:24",
+        "deviation_distance_km":14.2,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000217",
+        "trip_id":"TID_0737",
+        "deviation_start":"2024-03-18 18:30:00",
+        "deviation_end":"2024-03-18 18:30:00",
+        "deviation_distance_km":48.83,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000218",
+        "trip_id":"TID_0741",
+        "deviation_start":"2024-03-29 19:07:00",
+        "deviation_end":"2024-03-30 09:26:48",
+        "deviation_distance_km":22.46,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000219",
+        "trip_id":"TID_0745",
+        "deviation_start":"2024-02-06 21:20:00",
+        "deviation_end":"2024-02-07 12:59:36",
+        "deviation_distance_km":26.17,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000220",
+        "trip_id":"TID_0750",
+        "deviation_start":"2024-03-17 01:52:00",
+        "deviation_end":"2024-03-17 20:50:48",
+        "deviation_distance_km":48.18,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000221",
+        "trip_id":"TID_0762",
+        "deviation_start":"2024-01-23 21:44:00",
+        "deviation_end":"2024-01-24 15:31:24",
+        "deviation_distance_km":8.73,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000222",
+        "trip_id":"TID_0763",
+        "deviation_start":"2024-01-13 14:30:00",
+        "deviation_end":"2024-01-14 00:27:36",
+        "deviation_distance_km":44.64,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000223",
+        "trip_id":"TID_0765",
+        "deviation_start":"2024-02-01 00:02:00",
+        "deviation_end":"2024-02-01 06:14:36",
+        "deviation_distance_km":31.57,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000224",
+        "trip_id":"TID_0768",
+        "deviation_start":"2024-03-19 22:47:00",
+        "deviation_end":"2024-03-20 15:33:48",
+        "deviation_distance_km":30.6,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000225",
+        "trip_id":"TID_0773",
+        "deviation_start":"2024-03-12 15:54:00",
+        "deviation_end":"2024-03-13 14:13:12",
+        "deviation_distance_km":10.84,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000226",
+        "trip_id":"TID_0775",
+        "deviation_start":"2024-03-07 05:44:00",
+        "deviation_end":"2024-03-07 13:26:00",
+        "deviation_distance_km":9.63,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000227",
+        "trip_id":"TID_0776",
+        "deviation_start":"2024-01-20 00:57:00",
+        "deviation_end":"2024-01-20 00:57:00",
+        "deviation_distance_km":11.77,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000228",
+        "trip_id":"TID_0777",
+        "deviation_start":"2024-01-18 05:32:00",
+        "deviation_end":"2024-01-18 17:42:12",
+        "deviation_distance_km":25.14,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000229",
+        "trip_id":"TID_0779",
+        "deviation_start":"2024-02-16 19:12:00",
+        "deviation_end":"2024-02-17 07:30:00",
+        "deviation_distance_km":46.69,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000230",
+        "trip_id":"TID_0780",
+        "deviation_start":"2024-01-24 10:13:00",
+        "deviation_end":"2024-01-24 18:53:12",
+        "deviation_distance_km":39.51,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000231",
+        "trip_id":"TID_0783",
+        "deviation_start":"2024-02-29 15:24:00",
+        "deviation_end":"2024-02-29 11:43:48",
+        "deviation_distance_km":11.57,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000232",
+        "trip_id":"TID_0787",
+        "deviation_start":"2024-02-11 14:00:00",
+        "deviation_end":"2024-02-12 11:40:48",
+        "deviation_distance_km":25.74,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000233",
+        "trip_id":"TID_0790",
+        "deviation_start":"2024-01-03 23:53:00",
+        "deviation_end":"2024-01-04 14:48:12",
+        "deviation_distance_km":23.48,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000234",
+        "trip_id":"TID_0792",
+        "deviation_start":"2024-01-22 15:46:00",
+        "deviation_end":"2024-01-23 06:13:36",
+        "deviation_distance_km":35.79,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000235",
+        "trip_id":"TID_0793",
+        "deviation_start":"2024-03-11 18:51:00",
+        "deviation_end":"2024-03-12 08:37:12",
+        "deviation_distance_km":19.69,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000236",
+        "trip_id":"TID_0796",
+        "deviation_start":"2024-02-24 11:16:00",
+        "deviation_end":"2024-02-25 02:54:24",
+        "deviation_distance_km":46.66,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000237",
+        "trip_id":"TID_0805",
+        "deviation_start":"2024-02-22 12:53:00",
+        "deviation_end":"2024-02-23 05:07:24",
+        "deviation_distance_km":9.15,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000238",
+        "trip_id":"TID_0806",
+        "deviation_start":"2024-01-12 14:34:00",
+        "deviation_end":"2024-01-12 20:34:00",
+        "deviation_distance_km":18.32,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000239",
+        "trip_id":"TID_0820",
+        "deviation_start":"2024-01-02 14:03:00",
+        "deviation_end":"2024-01-03 02:46:48",
+        "deviation_distance_km":26.93,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000240",
+        "trip_id":"TID_0822",
+        "deviation_start":"2024-03-28 11:57:00",
+        "deviation_end":"2024-03-29 04:32:24",
+        "deviation_distance_km":15.58,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000241",
+        "trip_id":"TID_0824",
+        "deviation_start":"2024-02-07 10:53:00",
+        "deviation_end":"2024-02-08 06:31:24",
+        "deviation_distance_km":15.93,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000242",
+        "trip_id":"TID_0825",
+        "deviation_start":"2024-03-30 12:17:00",
+        "deviation_end":"2024-03-31 01:53:36",
+        "deviation_distance_km":49.36,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000243",
+        "trip_id":"TID_0835",
+        "deviation_start":"2024-03-23 10:44:00",
+        "deviation_end":"2024-03-23 19:12:48",
+        "deviation_distance_km":31.8,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000244",
+        "trip_id":"TID_0843",
+        "deviation_start":"2024-01-22 04:08:00",
+        "deviation_end":"2024-01-23 02:27:12",
+        "deviation_distance_km":12.21,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000245",
+        "trip_id":"TID_0850",
+        "deviation_start":"2024-01-18 17:45:00",
+        "deviation_end":"2024-01-19 10:18:36",
+        "deviation_distance_km":10.11,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000246",
+        "trip_id":"TID_0852",
+        "deviation_start":"2024-01-29 04:27:00",
+        "deviation_end":"2024-01-29 01:40:48",
+        "deviation_distance_km":16.71,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000247",
+        "trip_id":"TID_0857",
+        "deviation_start":"2024-01-24 17:44:00",
+        "deviation_end":"2024-01-24 23:55:24",
+        "deviation_distance_km":12.23,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000248",
+        "trip_id":"TID_0859",
+        "deviation_start":"2024-02-20 15:56:00",
+        "deviation_end":"2024-02-21 10:51:48",
+        "deviation_distance_km":29.81,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000249",
+        "trip_id":"TID_0861",
+        "deviation_start":"2024-01-19 03:45:00",
+        "deviation_end":"2024-01-19 10:20:24",
+        "deviation_distance_km":35.36,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000250",
+        "trip_id":"TID_0866",
+        "deviation_start":"2024-02-02 01:33:00",
+        "deviation_end":"2024-02-02 22:52:12",
+        "deviation_distance_km":44.08,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000251",
+        "trip_id":"TID_0867",
+        "deviation_start":"2024-02-26 05:58:00",
+        "deviation_end":"2024-02-26 23:31:36",
+        "deviation_distance_km":39.11,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000252",
+        "trip_id":"TID_0875",
+        "deviation_start":"2024-01-20 22:26:00",
+        "deviation_end":"2024-01-20 22:26:00",
+        "deviation_distance_km":7.01,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000253",
+        "trip_id":"TID_0876",
+        "deviation_start":"2024-02-13 22:17:00",
+        "deviation_end":"2024-02-15 03:24:12",
+        "deviation_distance_km":38.16,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000254",
+        "trip_id":"TID_0877",
+        "deviation_start":"2024-03-13 18:17:00",
+        "deviation_end":"2024-03-14 06:47:00",
+        "deviation_distance_km":38.91,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000255",
+        "trip_id":"TID_0891",
+        "deviation_start":"2024-03-13 09:54:00",
+        "deviation_end":"2024-03-13 21:12:00",
+        "deviation_distance_km":43.3,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000256",
+        "trip_id":"TID_0895",
+        "deviation_start":"2024-02-28 08:20:00",
+        "deviation_end":"2024-02-28 14:20:00",
+        "deviation_distance_km":40.15,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000257",
+        "trip_id":"TID_0903",
+        "deviation_start":"2024-03-12 19:23:00",
+        "deviation_end":"2024-03-13 03:48:12",
+        "deviation_distance_km":-19.5920651147,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000258",
+        "trip_id":"TID_0907",
+        "deviation_start":"2024-02-18 04:57:00",
+        "deviation_end":"2024-02-18 17:21:00",
+        "deviation_distance_km":44.18,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000259",
+        "trip_id":"TID_0910",
+        "deviation_start":"2024-01-11 11:26:00",
+        "deviation_end":"2024-01-11 07:00:12",
+        "deviation_distance_km":20.69,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000260",
+        "trip_id":"TID_0911",
+        "deviation_start":"2024-03-13 13:19:00",
+        "deviation_end":"2024-03-13 21:40:36",
+        "deviation_distance_km":22.47,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000261",
+        "trip_id":"TID_0915",
+        "deviation_start":"2024-03-01 03:17:00",
+        "deviation_end":"2024-02-29 23:22:24",
+        "deviation_distance_km":8.21,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000262",
+        "trip_id":"TID_0919",
+        "deviation_start":"2024-01-13 00:01:00",
+        "deviation_end":"2024-01-13 05:56:48",
+        "deviation_distance_km":-47.5810618075,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000263",
+        "trip_id":"TID_0923",
+        "deviation_start":"2024-01-31 20:02:00",
+        "deviation_end":"2024-02-01 03:50:00",
+        "deviation_distance_km":29.29,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000264",
+        "trip_id":"TID_0926",
+        "deviation_start":"2024-03-28 04:49:00",
+        "deviation_end":"2024-03-28 19:25:36",
+        "deviation_distance_km":29.54,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000265",
+        "trip_id":"TID_0928",
+        "deviation_start":"2024-03-30 08:33:00",
+        "deviation_end":"2024-03-30 22:51:00",
+        "deviation_distance_km":31.98,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000266",
+        "trip_id":"TID_0930",
+        "deviation_start":"2024-01-23 08:14:00",
+        "deviation_end":"2024-01-23 14:16:24",
+        "deviation_distance_km":28.32,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000267",
+        "trip_id":"TID_0935",
+        "deviation_start":"2024-03-14 17:36:00",
+        "deviation_end":"2024-03-15 04:47:24",
+        "deviation_distance_km":16.43,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000268",
+        "trip_id":"TID_0936",
+        "deviation_start":"2024-01-28 05:38:00",
+        "deviation_end":"2024-01-28 17:47:00",
+        "deviation_distance_km":41.32,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000269",
+        "trip_id":"TID_0938",
+        "deviation_start":"2024-02-01 17:54:00",
+        "deviation_end":"2024-02-02 01:48:00",
+        "deviation_distance_km":10.76,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000270",
+        "trip_id":"TID_0939",
+        "deviation_start":"2024-01-28 13:45:00",
+        "deviation_end":"2024-01-29 11:02:24",
+        "deviation_distance_km":49.08,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000271",
+        "trip_id":"TID_0940",
+        "deviation_start":"2024-03-30 13:12:00",
+        "deviation_end":"2024-03-31 06:21:36",
+        "deviation_distance_km":25.66,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000272",
+        "trip_id":"TID_0944",
+        "deviation_start":"2024-03-06 23:54:00",
+        "deviation_end":"2024-03-07 16:22:48",
+        "deviation_distance_km":29.37,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000273",
+        "trip_id":"TID_0945",
+        "deviation_start":"2024-01-05 21:35:00",
+        "deviation_end":"2024-01-06 04:19:24",
+        "deviation_distance_km":15.07,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000274",
+        "trip_id":"TID_0947",
+        "deviation_start":"2024-03-13 20:19:00",
+        "deviation_end":"2024-03-14 06:51:24",
+        "deviation_distance_km":8.75,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000275",
+        "trip_id":"TID_0951",
+        "deviation_start":"2024-01-01 16:18:00",
+        "deviation_end":"2024-01-02 04:55:48",
+        "deviation_distance_km":25.75,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000276",
+        "trip_id":"TID_0953",
+        "deviation_start":"2024-03-12 16:52:00",
+        "deviation_end":"2024-03-13 10:01:36",
+        "deviation_distance_km":17.31,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000277",
+        "trip_id":"TID_0957",
+        "deviation_start":"2024-01-28 22:02:00",
+        "deviation_end":"2024-01-29 03:46:24",
+        "deviation_distance_km":46.9,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000278",
+        "trip_id":"TID_0958",
+        "deviation_start":"2024-01-25 01:45:00",
+        "deviation_end":"2024-01-25 19:43:12",
+        "deviation_distance_km":43.32,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000279",
+        "trip_id":"TID_0965",
+        "deviation_start":"2024-02-27 17:51:00",
+        "deviation_end":"2024-02-28 12:25:12",
+        "deviation_distance_km":25.67,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000280",
+        "trip_id":"TID_0966",
+        "deviation_start":"2024-03-07 16:40:00",
+        "deviation_end":"2024-03-08 04:12:24",
+        "deviation_distance_km":41.97,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000281",
+        "trip_id":"TID_0970",
+        "deviation_start":"2024-03-11 02:39:00",
+        "deviation_end":"2024-03-11 12:13:12",
+        "deviation_distance_km":42.47,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000282",
+        "trip_id":"TID_0975",
+        "deviation_start":"2024-01-19 21:09:00",
+        "deviation_end":"2024-01-20 08:01:12",
+        "deviation_distance_km":40.97,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000283",
+        "trip_id":"TID_0976",
+        "deviation_start":"2024-02-23 17:27:00",
+        "deviation_end":"2024-02-24 04:05:24",
+        "deviation_distance_km":31.79,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000284",
+        "trip_id":"TID_0979",
+        "deviation_start":"2024-01-24 02:01:00",
+        "deviation_end":"2024-01-24 15:46:36",
+        "deviation_distance_km":14.69,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000285",
+        "trip_id":"TID_0980",
+        "deviation_start":"2024-03-22 10:52:00",
+        "deviation_end":"2024-03-23 07:50:48",
+        "deviation_distance_km":26.0,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000286",
+        "trip_id":"TID_0981",
+        "deviation_start":"2024-01-03 16:05:00",
+        "deviation_end":"2024-01-03 22:49:24",
+        "deviation_distance_km":37.8,
+        "reason":"Driver Choice"
+    },
+    {
+        "route_deviation_id":"DEV_000287",
+        "trip_id":"TID_0985",
+        "deviation_start":"2024-01-03 08:09:00",
+        "deviation_end":"2024-01-03 16:23:24",
+        "deviation_distance_km":42.24,
+        "reason":"Traffic"
+    },
+    {
+        "route_deviation_id":"DEV_000288",
+        "trip_id":"TID_0988",
+        "deviation_start":"2024-03-16 22:26:00",
+        "deviation_end":"2024-03-17 06:04:24",
+        "deviation_distance_km":-35.6100907138,
+        "reason":"Road Block"
+    },
+    {
+        "route_deviation_id":"DEV_000289",
+        "trip_id":"TID_0994",
+        "deviation_start":"2024-03-11 15:52:00",
+        "deviation_end":"2024-03-12 04:14:48",
+        "deviation_distance_km":30.06,
+        "reason":"Road Block"
+    }
+]

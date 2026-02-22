@@ -1,0 +1,3258 @@
+[
+    {
+        "alert_event_id":"ALT_000001",
+        "trip_id":"TID_0004",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 19:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000002",
+        "trip_id":"TID_0006",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 06:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000003",
+        "trip_id":"TID_0011",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-16 03:58:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000004",
+        "trip_id":"TID_0012",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-22 18:04:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000005",
+        "trip_id":"TID_0013",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-18 07:22:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000006",
+        "trip_id":"TID_0014",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 20:23:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000007",
+        "trip_id":"TID_0017",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 09:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000008",
+        "trip_id":"TID_0018",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-13 13:25:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000009",
+        "trip_id":"TID_0019",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-30 12:37:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000010",
+        "trip_id":"TID_0024",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 15:08:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000011",
+        "trip_id":"TID_0026",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-24 22:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000012",
+        "trip_id":"TID_0027",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-04 11:59:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000013",
+        "trip_id":"TID_0028",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-17 15:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000014",
+        "trip_id":"TID_0033",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 09:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000015",
+        "trip_id":"TID_0034",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 18:45:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000016",
+        "trip_id":"TID_0036",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 00:27:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000017",
+        "trip_id":"TID_0039",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 12:16:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000018",
+        "trip_id":"TID_0042",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-23 13:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000019",
+        "trip_id":"TID_0043",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 06:16:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000020",
+        "trip_id":"TID_0044",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-08 16:32:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000021",
+        "trip_id":"TID_0045",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 02:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000022",
+        "trip_id":"TID_0047",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-05 23:56:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000023",
+        "trip_id":"TID_0048",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 12:26:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000024",
+        "trip_id":"TID_0049",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 09:07:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000025",
+        "trip_id":"TID_0051",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 12:47:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000026",
+        "trip_id":"TID_0054",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-26 09:41:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000027",
+        "trip_id":"TID_0055",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 14:10:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000028",
+        "trip_id":"TID_0057",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-09 07:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000029",
+        "trip_id":"TID_0058",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-23 11:59:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000030",
+        "trip_id":"TID_0063",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 10:27:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000031",
+        "trip_id":"TID_0066",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-29 03:06:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000032",
+        "trip_id":"TID_0072",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-20 21:03:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000033",
+        "trip_id":"TID_0076",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-22 05:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000034",
+        "trip_id":"TID_0077",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-14 17:57:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000035",
+        "trip_id":"TID_0078",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-05 02:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000036",
+        "trip_id":"TID_0081",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 15:22:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000037",
+        "trip_id":"TID_0082",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 16:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000038",
+        "trip_id":"TID_0083",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 16:55:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000039",
+        "trip_id":"TID_0084",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-08 16:05:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000040",
+        "trip_id":"TID_0086",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-09 01:20:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000041",
+        "trip_id":"TID_0087",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 04:34:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000042",
+        "trip_id":"TID_0090",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-20 09:26:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000043",
+        "trip_id":"TID_0092",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 03:04:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000044",
+        "trip_id":"TID_0094",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 20:20:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000045",
+        "trip_id":"TID_0100",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-27 18:27:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000046",
+        "trip_id":"TID_0101",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 19:57:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000047",
+        "trip_id":"TID_0102",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-07 15:31:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000048",
+        "trip_id":"TID_0105",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-10 16:55:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000049",
+        "trip_id":"TID_0106",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-13 20:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000050",
+        "trip_id":"TID_0112",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 18:08:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000051",
+        "trip_id":"TID_0114",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 06:50:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000052",
+        "trip_id":"TID_0119",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 00:09:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000053",
+        "trip_id":"TID_0123",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-08 15:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000054",
+        "trip_id":"TID_0124",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-21 04:18:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000055",
+        "trip_id":"TID_0126",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 09:53:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000056",
+        "trip_id":"TID_0128",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-21 01:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000057",
+        "trip_id":"TID_0129",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 00:43:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000058",
+        "trip_id":"TID_0132",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-10 19:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000059",
+        "trip_id":"TID_0133",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-20 15:29:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000060",
+        "trip_id":"TID_0134",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 20:32:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000061",
+        "trip_id":"TID_0136",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-22 11:37:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000062",
+        "trip_id":"TID_0137",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-25 17:26:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000063",
+        "trip_id":"TID_0138",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 02:59:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000064",
+        "trip_id":"TID_0141",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-15 07:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000065",
+        "trip_id":"TID_0142",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 22:17:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000066",
+        "trip_id":"TID_0143",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 20:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000067",
+        "trip_id":"TID_0145",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-17 17:14:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000068",
+        "trip_id":"TID_0147",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 00:39:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000069",
+        "trip_id":"TID_0151",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 18:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000070",
+        "trip_id":"TID_0152",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 22:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000071",
+        "trip_id":"TID_0154",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-04 00:25:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000072",
+        "trip_id":"TID_0155",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 17:24:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000073",
+        "trip_id":"TID_0158",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-30 13:18:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000074",
+        "trip_id":"TID_0159",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 00:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000075",
+        "trip_id":"TID_0161",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-28 07:52:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000076",
+        "trip_id":"TID_0162",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 07:22:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000077",
+        "trip_id":"TID_0164",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-29 10:21:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000078",
+        "trip_id":"TID_0166",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-11 21:19:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000079",
+        "trip_id":"TID_0168",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-25 03:11:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000080",
+        "trip_id":"TID_0173",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 10:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000081",
+        "trip_id":"TID_0176",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-22 04:43:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000082",
+        "trip_id":"TID_0179",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 10:22:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000083",
+        "trip_id":"TID_0180",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-22 19:29:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000084",
+        "trip_id":"TID_0183",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-17 14:07:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000085",
+        "trip_id":"TID_0191",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-06 13:49:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000086",
+        "trip_id":"TID_0194",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-28 17:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000087",
+        "trip_id":"TID_0197",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-21 03:01:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000088",
+        "trip_id":"TID_0199",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 13:34:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000089",
+        "trip_id":"TID_0206",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 21:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000090",
+        "trip_id":"TID_0207",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 08:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000091",
+        "trip_id":"TID_0209",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-04 12:38:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000092",
+        "trip_id":"TID_0213",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-18 16:37:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000093",
+        "trip_id":"TID_0214",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-24 15:05:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000094",
+        "trip_id":"TID_0215",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 04:37:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000095",
+        "trip_id":"TID_0219",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 20:43:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000096",
+        "trip_id":"TID_0220",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 02:52:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000097",
+        "trip_id":"TID_0221",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 18:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000098",
+        "trip_id":"TID_0223",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-15 20:04:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000099",
+        "trip_id":"TID_0224",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-14 08:40:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000100",
+        "trip_id":"TID_0226",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 09:17:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000101",
+        "trip_id":"TID_0227",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 17:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000102",
+        "trip_id":"TID_0230",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-12 05:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000103",
+        "trip_id":"TID_0232",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 06:15:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000104",
+        "trip_id":"TID_0233",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 11:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000105",
+        "trip_id":"TID_0234",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-09 01:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000106",
+        "trip_id":"TID_0236",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 16:08:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000107",
+        "trip_id":"TID_0238",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-12 09:56:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000108",
+        "trip_id":"TID_0239",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-27 00:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000109",
+        "trip_id":"TID_0240",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 02:09:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000110",
+        "trip_id":"TID_0243",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-17 09:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000111",
+        "trip_id":"TID_0244",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 19:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000112",
+        "trip_id":"TID_0252",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-25 19:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000113",
+        "trip_id":"TID_0254",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 22:50:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000114",
+        "trip_id":"TID_0256",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 22:03:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000115",
+        "trip_id":"TID_0258",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 01:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000116",
+        "trip_id":"TID_0261",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 02:04:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000117",
+        "trip_id":"TID_0264",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-05 03:17:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000118",
+        "trip_id":"TID_0267",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 09:19:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000119",
+        "trip_id":"TID_0268",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 18:43:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000120",
+        "trip_id":"TID_0273",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-25 19:54:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000121",
+        "trip_id":"TID_0275",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 15:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000122",
+        "trip_id":"TID_0276",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-23 19:17:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000123",
+        "trip_id":"TID_0277",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 03:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000124",
+        "trip_id":"TID_0278",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 14:50:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000125",
+        "trip_id":"TID_0279",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-24 05:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000126",
+        "trip_id":"TID_0288",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 09:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000127",
+        "trip_id":"TID_0289",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 06:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000128",
+        "trip_id":"TID_0292",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 00:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000129",
+        "trip_id":"TID_0301",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 19:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000130",
+        "trip_id":"TID_0310",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-22 15:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000131",
+        "trip_id":"TID_0311",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 18:55:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000132",
+        "trip_id":"TID_0312",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 03:29:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000133",
+        "trip_id":"TID_0313",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-27 19:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000134",
+        "trip_id":"TID_0319",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 05:09:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000135",
+        "trip_id":"TID_0320",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 16:54:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000136",
+        "trip_id":"TID_0330",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-29 01:11:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000137",
+        "trip_id":"TID_0336",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 20:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000138",
+        "trip_id":"TID_0339",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-31 21:38:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000139",
+        "trip_id":"TID_0340",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 09:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000140",
+        "trip_id":"TID_0342",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 04:42:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000141",
+        "trip_id":"TID_0344",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 00:09:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000142",
+        "trip_id":"TID_0348",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 14:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000143",
+        "trip_id":"TID_0349",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 15:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000144",
+        "trip_id":"TID_0353",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-09 10:53:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000145",
+        "trip_id":"TID_0354",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 14:24:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000146",
+        "trip_id":"TID_0357",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-11 03:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000147",
+        "trip_id":"TID_0358",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-01 16:25:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000148",
+        "trip_id":"TID_0359",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 12:33:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000149",
+        "trip_id":"TID_0361",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-08 21:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000150",
+        "trip_id":"TID_0366",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 09:46:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000151",
+        "trip_id":"TID_0370",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-12 10:27:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000152",
+        "trip_id":"TID_0373",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-21 01:21:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000153",
+        "trip_id":"TID_0374",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-21 14:50:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000154",
+        "trip_id":"TID_0375",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-21 06:13:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000155",
+        "trip_id":"TID_0376",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 04:03:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000156",
+        "trip_id":"TID_0377",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 22:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000157",
+        "trip_id":"TID_0381",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-01 23:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000158",
+        "trip_id":"TID_0382",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 04:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000159",
+        "trip_id":"TID_0383",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-16 07:18:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000160",
+        "trip_id":"TID_0384",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 11:50:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000161",
+        "trip_id":"TID_0385",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 02:32:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000162",
+        "trip_id":"TID_0387",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-10 10:51:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000163",
+        "trip_id":"TID_0394",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 02:00:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000164",
+        "trip_id":"TID_0397",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-27 05:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000165",
+        "trip_id":"TID_0399",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 09:08:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000166",
+        "trip_id":"TID_0401",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 11:29:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000167",
+        "trip_id":"TID_0402",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-14 22:50:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000168",
+        "trip_id":"TID_0407",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-13 05:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000169",
+        "trip_id":"TID_0408",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 23:54:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000170",
+        "trip_id":"TID_0410",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-09 03:53:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000171",
+        "trip_id":"TID_0411",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 19:00:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000172",
+        "trip_id":"TID_0415",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-31 11:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000173",
+        "trip_id":"TID_0418",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 19:39:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000174",
+        "trip_id":"TID_0419",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-16 19:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000175",
+        "trip_id":"TID_0421",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 23:06:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000176",
+        "trip_id":"TID_0422",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 19:30:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000177",
+        "trip_id":"TID_0424",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-29 17:30:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000178",
+        "trip_id":"TID_0425",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 07:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000179",
+        "trip_id":"TID_0426",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-06 05:55:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000180",
+        "trip_id":"TID_0427",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 21:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000181",
+        "trip_id":"TID_0429",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 05:39:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000182",
+        "trip_id":"TID_0431",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-26 09:21:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000183",
+        "trip_id":"TID_0432",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 11:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000184",
+        "trip_id":"TID_0439",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 13:14:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000185",
+        "trip_id":"TID_0440",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 15:58:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000186",
+        "trip_id":"TID_0441",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-02 11:05:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000187",
+        "trip_id":"TID_0443",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-26 02:11:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000188",
+        "trip_id":"TID_0448",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 20:18:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000189",
+        "trip_id":"TID_0449",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 15:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000190",
+        "trip_id":"TID_0453",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 02:25:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000191",
+        "trip_id":"TID_0458",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 12:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000192",
+        "trip_id":"TID_0463",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-17 12:47:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000193",
+        "trip_id":"TID_0464",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 20:01:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000194",
+        "trip_id":"TID_0465",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-06 03:09:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000195",
+        "trip_id":"TID_0469",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 10:46:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000196",
+        "trip_id":"TID_0470",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-13 23:47:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000197",
+        "trip_id":"TID_0472",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-11 10:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000198",
+        "trip_id":"TID_0473",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-22 09:14:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000199",
+        "trip_id":"TID_0474",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 11:24:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000200",
+        "trip_id":"TID_0479",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-17 01:23:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000201",
+        "trip_id":"TID_0480",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 08:16:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000202",
+        "trip_id":"TID_0491",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-27 16:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000203",
+        "trip_id":"TID_0495",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 20:48:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000204",
+        "trip_id":"TID_0497",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 03:38:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000205",
+        "trip_id":"TID_0498",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-07 22:21:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000206",
+        "trip_id":"TID_0499",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-11 12:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000207",
+        "trip_id":"TID_0500",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 23:46:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000208",
+        "trip_id":"TID_0501",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 23:58:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000209",
+        "trip_id":"TID_0504",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 21:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000210",
+        "trip_id":"TID_0508",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-06 23:43:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000211",
+        "trip_id":"TID_0511",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-06 22:51:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000212",
+        "trip_id":"TID_0513",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-25 04:01:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000213",
+        "trip_id":"TID_0524",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 03:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000214",
+        "trip_id":"TID_0527",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 15:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000215",
+        "trip_id":"TID_0528",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-25 05:29:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000216",
+        "trip_id":"TID_0529",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 11:22:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000217",
+        "trip_id":"TID_0530",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-21 15:13:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000218",
+        "trip_id":"TID_0532",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-08 20:51:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000219",
+        "trip_id":"TID_0535",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-08 19:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000220",
+        "trip_id":"TID_0536",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-15 03:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000221",
+        "trip_id":"TID_0537",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 02:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000222",
+        "trip_id":"TID_0538",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 17:05:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000223",
+        "trip_id":"TID_0540",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-05 06:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000224",
+        "trip_id":"TID_0542",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-18 16:50:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000225",
+        "trip_id":"TID_0544",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-27 10:23:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000226",
+        "trip_id":"TID_0549",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 01:01:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000227",
+        "trip_id":"TID_0550",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-11 21:00:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000228",
+        "trip_id":"TID_0551",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-13 04:20:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000229",
+        "trip_id":"TID_0554",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-27 09:11:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000230",
+        "trip_id":"TID_0555",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 01:06:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000231",
+        "trip_id":"TID_0556",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-25 23:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000232",
+        "trip_id":"TID_0561",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-30 00:00:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000233",
+        "trip_id":"TID_0562",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-07 18:26:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000234",
+        "trip_id":"TID_0565",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 18:53:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000235",
+        "trip_id":"TID_0567",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-13 00:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000236",
+        "trip_id":"TID_0568",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-18 21:29:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000237",
+        "trip_id":"TID_0571",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-04 20:01:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000238",
+        "trip_id":"TID_0573",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 12:19:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000239",
+        "trip_id":"TID_0576",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 13:58:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000240",
+        "trip_id":"TID_0578",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-05 01:18:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000241",
+        "trip_id":"TID_0579",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 02:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000242",
+        "trip_id":"TID_0585",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-09 22:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000243",
+        "trip_id":"TID_0589",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-26 06:49:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000244",
+        "trip_id":"TID_0590",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 21:06:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000245",
+        "trip_id":"TID_0593",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-02 21:33:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000246",
+        "trip_id":"TID_0594",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 21:22:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000247",
+        "trip_id":"TID_0595",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-31 00:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000248",
+        "trip_id":"TID_0598",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-26 22:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000249",
+        "trip_id":"TID_0600",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 15:39:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000250",
+        "trip_id":"TID_0604",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-23 02:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000251",
+        "trip_id":"TID_0607",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-12 01:12:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000252",
+        "trip_id":"TID_0609",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 08:31:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000253",
+        "trip_id":"TID_0610",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-05 18:59:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000254",
+        "trip_id":"TID_0612",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-03 08:38:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000255",
+        "trip_id":"TID_0613",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 11:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000256",
+        "trip_id":"TID_0617",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-06 12:27:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000257",
+        "trip_id":"TID_0621",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-24 07:03:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000258",
+        "trip_id":"TID_0631",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-06 02:51:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000259",
+        "trip_id":"TID_0636",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 09:31:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000260",
+        "trip_id":"TID_0639",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-15 23:52:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000261",
+        "trip_id":"TID_0642",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 07:59:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000262",
+        "trip_id":"TID_0643",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-09 15:39:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000263",
+        "trip_id":"TID_0644",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 00:14:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000264",
+        "trip_id":"TID_0646",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-11 09:35:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000265",
+        "trip_id":"TID_0648",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 13:59:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000266",
+        "trip_id":"TID_0649",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 20:23:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000267",
+        "trip_id":"TID_0651",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-07 09:46:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000268",
+        "trip_id":"TID_0652",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 23:04:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000269",
+        "trip_id":"TID_0655",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-10 09:48:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000270",
+        "trip_id":"TID_0660",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 01:03:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000271",
+        "trip_id":"TID_0668",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-28 22:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000272",
+        "trip_id":"TID_0670",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-24 11:57:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000273",
+        "trip_id":"TID_0671",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 04:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000274",
+        "trip_id":"TID_0672",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-16 13:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000275",
+        "trip_id":"TID_0673",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 05:46:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000276",
+        "trip_id":"TID_0674",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 02:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000277",
+        "trip_id":"TID_0675",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 11:01:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000278",
+        "trip_id":"TID_0676",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-14 07:07:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000279",
+        "trip_id":"TID_0677",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 02:12:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000280",
+        "trip_id":"TID_0680",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-25 09:26:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000281",
+        "trip_id":"TID_0684",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-31 10:21:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000282",
+        "trip_id":"TID_0688",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-06 14:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000283",
+        "trip_id":"TID_0689",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 11:59:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000284",
+        "trip_id":"TID_0692",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 00:44:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000285",
+        "trip_id":"TID_0693",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-05 14:03:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000286",
+        "trip_id":"TID_0694",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-16 23:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000287",
+        "trip_id":"TID_0695",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-22 10:49:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000288",
+        "trip_id":"TID_0696",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-12 14:15:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000289",
+        "trip_id":"TID_0701",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-14 11:30:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000290",
+        "trip_id":"TID_0704",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 05:51:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000291",
+        "trip_id":"TID_0708",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 15:41:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000292",
+        "trip_id":"TID_0710",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 23:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000293",
+        "trip_id":"TID_0713",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-09 10:51:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000294",
+        "trip_id":"TID_0718",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-02 04:37:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000295",
+        "trip_id":"TID_0719",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 10:05:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000296",
+        "trip_id":"TID_0720",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-31 07:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000297",
+        "trip_id":"TID_0725",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-12 10:20:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000298",
+        "trip_id":"TID_0728",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-03 18:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000299",
+        "trip_id":"TID_0729",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 11:26:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000300",
+        "trip_id":"TID_0733",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 14:30:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000301",
+        "trip_id":"TID_0734",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-03 15:51:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000302",
+        "trip_id":"TID_0737",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-18 18:30:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000303",
+        "trip_id":"TID_0743",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 13:44:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000304",
+        "trip_id":"TID_0746",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 11:52:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000305",
+        "trip_id":"TID_0747",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 22:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000306",
+        "trip_id":"TID_0750",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-17 01:52:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000307",
+        "trip_id":"TID_0752",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 10:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000308",
+        "trip_id":"TID_0758",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-07 07:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000309",
+        "trip_id":"TID_0761",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-09 19:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000310",
+        "trip_id":"TID_0764",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 17:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000311",
+        "trip_id":"TID_0765",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 00:02:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000312",
+        "trip_id":"TID_0767",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-03 02:12:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000313",
+        "trip_id":"TID_0768",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-19 22:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000314",
+        "trip_id":"TID_0769",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 15:56:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000315",
+        "trip_id":"TID_0770",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-05 06:06:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000316",
+        "trip_id":"TID_0771",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-20 02:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000317",
+        "trip_id":"TID_0772",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-27 18:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000318",
+        "trip_id":"TID_0774",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-15 21:26:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000319",
+        "trip_id":"TID_0776",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-20 00:57:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000320",
+        "trip_id":"TID_0782",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-17 12:06:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000321",
+        "trip_id":"TID_0784",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-14 12:47:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000322",
+        "trip_id":"TID_0785",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 14:55:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000323",
+        "trip_id":"TID_0786",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 21:01:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000324",
+        "trip_id":"TID_0789",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-21 07:28:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000325",
+        "trip_id":"TID_0791",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 04:56:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000326",
+        "trip_id":"TID_0796",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-24 11:16:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000327",
+        "trip_id":"TID_0798",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-15 07:36:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000328",
+        "trip_id":"TID_0800",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-14 20:58:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000329",
+        "trip_id":"TID_0802",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 00:34:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000330",
+        "trip_id":"TID_0803",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-11 13:39:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000331",
+        "trip_id":"TID_0806",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-12 14:34:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000332",
+        "trip_id":"TID_0808",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-24 22:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000333",
+        "trip_id":"TID_0811",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-10 21:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000334",
+        "trip_id":"TID_0815",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-27 14:55:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000335",
+        "trip_id":"TID_0819",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-11 19:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000336",
+        "trip_id":"TID_0820",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-02 14:03:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000337",
+        "trip_id":"TID_0825",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-30 12:17:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000338",
+        "trip_id":"TID_0828",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 21:06:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000339",
+        "trip_id":"TID_0833",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-03 22:07:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000340",
+        "trip_id":"TID_0836",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-15 16:20:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000341",
+        "trip_id":"TID_0837",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-31 02:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000342",
+        "trip_id":"TID_0848",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 01:32:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000343",
+        "trip_id":"TID_0849",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-04 21:04:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000344",
+        "trip_id":"TID_0850",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-18 17:45:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000345",
+        "trip_id":"TID_0851",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-04 02:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000346",
+        "trip_id":"TID_0852",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 04:27:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000347",
+        "trip_id":"TID_0853",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-05 05:44:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000348",
+        "trip_id":"TID_0856",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 02:34:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000349",
+        "trip_id":"TID_0858",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-06 10:45:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000350",
+        "trip_id":"TID_0859",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-20 15:56:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000351",
+        "trip_id":"TID_0862",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-14 06:11:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000352",
+        "trip_id":"TID_0864",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 21:49:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000353",
+        "trip_id":"TID_0866",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-02 01:33:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000354",
+        "trip_id":"TID_0873",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-16 22:01:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000355",
+        "trip_id":"TID_0874",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 16:59:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000356",
+        "trip_id":"TID_0878",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 19:13:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000357",
+        "trip_id":"TID_0882",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-02 06:37:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000358",
+        "trip_id":"TID_0886",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-09 23:19:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000359",
+        "trip_id":"TID_0887",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-04 02:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000360",
+        "trip_id":"TID_0888",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-30 12:57:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000361",
+        "trip_id":"TID_0889",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 13:33:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000362",
+        "trip_id":"TID_0890",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-05 06:56:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000363",
+        "trip_id":"TID_0891",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 09:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000364",
+        "trip_id":"TID_0892",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-17 03:44:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000365",
+        "trip_id":"TID_0899",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-01 21:54:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000366",
+        "trip_id":"TID_0904",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 22:08:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000367",
+        "trip_id":"TID_0905",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-24 04:41:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000368",
+        "trip_id":"TID_0906",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-06 14:05:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000369",
+        "trip_id":"TID_0907",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-18 04:57:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000370",
+        "trip_id":"TID_0908",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-22 07:14:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000371",
+        "trip_id":"TID_0909",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-08 17:12:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000372",
+        "trip_id":"TID_0912",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 02:09:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000373",
+        "trip_id":"TID_0915",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-01 03:17:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000374",
+        "trip_id":"TID_0916",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-26 00:10:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000375",
+        "trip_id":"TID_0917",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 13:41:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000376",
+        "trip_id":"TID_0918",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-20 10:24:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000377",
+        "trip_id":"TID_0919",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-13 00:01:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000378",
+        "trip_id":"TID_0921",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 20:57:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000379",
+        "trip_id":"TID_0924",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 06:27:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000380",
+        "trip_id":"TID_0926",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-28 04:49:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000381",
+        "trip_id":"TID_0929",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-23 00:36:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000382",
+        "trip_id":"TID_0931",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-06 12:38:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000383",
+        "trip_id":"TID_0932",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 00:02:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000384",
+        "trip_id":"TID_0936",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-28 05:38:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000385",
+        "trip_id":"TID_0945",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-05 21:35:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000386",
+        "trip_id":"TID_0947",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-13 20:19:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000387",
+        "trip_id":"TID_0951",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-01 16:18:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000388",
+        "trip_id":"TID_0955",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-11 17:20:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000389",
+        "trip_id":"TID_0956",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-19 21:30:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000390",
+        "trip_id":"TID_0959",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-26 17:34:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000391",
+        "trip_id":"TID_0960",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-21 19:49:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000392",
+        "trip_id":"TID_0961",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-12 14:14:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000393",
+        "trip_id":"TID_0964",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-26 13:31:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000394",
+        "trip_id":"TID_0969",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-06 19:22:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000395",
+        "trip_id":"TID_0973",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-29 01:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000396",
+        "trip_id":"TID_0974",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-05 15:50:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000397",
+        "trip_id":"TID_0975",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-19 21:09:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000398",
+        "trip_id":"TID_0976",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-23 17:27:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000399",
+        "trip_id":"TID_0977",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-03 03:03:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000400",
+        "trip_id":"TID_0984",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-10 13:40:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000401",
+        "trip_id":"TID_0987",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-16 00:20:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000402",
+        "trip_id":"TID_0990",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-30 00:42:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000403",
+        "trip_id":"TID_0991",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-10 00:20:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000404",
+        "trip_id":"TID_0995",
+        "alert_type":"Speeding",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-01-17 04:23:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000405",
+        "trip_id":"TID_0997",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-26 13:00:00",
+        "alert_status":"Open"
+    },
+    {
+        "alert_event_id":"ALT_000406",
+        "trip_id":"TID_0998",
+        "alert_type":"Fuel Drop",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-03-30 13:38:00",
+        "alert_status":"Closed"
+    },
+    {
+        "alert_event_id":"ALT_000407",
+        "trip_id":"TID_0999",
+        "alert_type":"Route Deviation",
+        "alert_message":"System generated alert",
+        "alert_time":"2024-02-07 07:52:00",
+        "alert_status":"Open"
+    }
+]
